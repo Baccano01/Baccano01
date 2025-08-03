@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   > - Functional Programming.
   > - Backend (cloud | edge).
   > - IoT and Automation.
-  > - Vision-based | Signal-based solutions for security in cyber-physical systems.
+  > - Vision-based | Signal-based security solutions in cyber-physical systems.
   >
   > SWE and MLE have widely different tasks or knowledge base,
   > thus may use different tech or tool stacks;
@@ -56,10 +56,13 @@ Here are some ideas to get you started:
   > I lean more towards SWE with CV and Cybersecurity applications.
 </details>
 
+<details>
+  <summary>Stats</summary>
+  
+  ![Baccano01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baccano01&show_icons=true&theme=algolia&rank_icon=github&custom_title=Baccano01's+Public+Stats)
+</details>
+
 ### Actively
 - refining my professional portfolio.
-- preparing for technical interview for an entry software engineer role.
+- searching for an entry software engineer role.
 - pursuing MSc in Computer Science at La Sapienza University of Rome, specializing on AI and Systems.
-
-### Contact
-Connect with me on LinkedIn.
