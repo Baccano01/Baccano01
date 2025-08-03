@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About me:
+### About me
 
 <b>A problem solver who uses computers 💻 and code 💾</b>
 - :gear: I love **efficient and elegant** solutions.
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
   > I lean more towards SWE with CV and Cybersecurity applications.
 </details>
 
-### Actively:
+### Actively
+- refining my professional portfolio.
 - preparing for technical interview for an entry software engineer role.
 - pursuing MSc in Computer Science at La Sapienza University of Rome, specializing on AI and Systems.
