@@ -60,3 +60,6 @@ Here are some ideas to get you started:
 - refining my professional portfolio.
 - preparing for technical interview for an entry software engineer role.
 - pursuing MSc in Computer Science at La Sapienza University of Rome, specializing on AI and Systems.
+
+### Contact
+You can find me on LinkedIn.
