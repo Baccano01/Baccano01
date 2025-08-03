@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 - pursuing MSc in Computer Science at La Sapienza University of Rome, specializing on AI and Systems.
 
 ### Contact
-You can find me on LinkedIn.
+Connect with me on LinkedIn.
