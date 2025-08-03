@@ -66,3 +66,13 @@ Here are some ideas to get you started:
 - refining my professional portfolio.
 - searching for an entry software engineer role.
 - pursuing MSc in Computer Science at La Sapienza University of Rome, specializing on AI and Systems.
+
+### Check me on
+
+Personal Website
+<a style="text-decoration:none" href="https://baccano01.github.io/">🌐</a>
+
+LinkedIn
+<a href="www.linkedin.com/in/baccano01-7701a5185">
+  <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn">
+</a>
