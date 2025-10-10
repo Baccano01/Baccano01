@@ -46,8 +46,7 @@ Here are some ideas to get you started:
   >
   > - Functional Programming.
   > - Backend (cloud | edge).
-  > - IoT and Automation.
-  > - Vision-based | Signal-based security solutions in cyber-physical systems.
+  > - Vision-based
   >
   > SWE and MLE have widely different tasks or knowledge base,
   > thus may use different tech or tool stacks;
@@ -65,7 +64,7 @@ Here are some ideas to get you started:
 ### Actively
 - refining my professional portfolio.
 - searching for an entry software engineer role.
-- pursuing MSc in Computer Science at La Sapienza University of Rome, specializing on AI and Systems.
+- pursuing MSc in Computer Science at La Sapienza University of Rome, specializing on AI, Network and Systems.
 
 ### Check me on
 
