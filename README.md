@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ### Active
 - Research Assistant at Prometheus Lab of "La Sapienza" University of Rome.
-- Software Engineer of Sapienza Space Team.
+- Software Engineer at Sapienza Space Team.
 - pursuing MSc in Computer Science at La Sapienza University of Rome, specializing on AI, Network and Systems.
 
 ### Check me on
