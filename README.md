@@ -61,10 +61,10 @@ Here are some ideas to get you started:
   ![Baccano01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baccano01&show_icons=true&theme=algolia&rank_icon=github&custom_title=Baccano01's+Public+Stats)
 </details>
 
-### Active
+### Current Activities
 - Research Assistant at Prometheus Lab of "La Sapienza" University of Rome.
 - Software Engineer at Sapienza Space Team.
-- pursuing MSc in Computer Science at La Sapienza University of Rome, specializing on AI, Network and Systems.
+- MSc in Computer Science at La Sapienza University of Rome, specializing on AI, Network and Systems.
 
 ### Check me on
 
