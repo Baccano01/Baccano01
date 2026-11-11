@@ -36,6 +36,6 @@ Personal Website
 <a style="text-decoration:none" href="https://baccano01.github.io/">🌐</a>
 
 LinkedIn
-<a href="https://www.linkedin.com/in/baccano01-7701a5185">
+<a href="www.linkedin.com/in/jofethabello">
   <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn">
 </a>
