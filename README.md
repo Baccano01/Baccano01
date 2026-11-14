@@ -1,7 +1,14 @@
 # Hi, I'm Jofeth
 
 MSc Computer Science student at Sapienza University of Rome (graduating Dec 2027),
-working on efficient ML systems (Quantization, SpMv), Networking (MAC protocols, On-chip Interconnects, Algorithms), High-performance Computing (Processor Architecture, Accelerators, Parallel Programming, Collective Communications, Distributed Deep Learning), WiFi-Sensing, Advanced Signal Processing, Indoor Localization, Space Tech (Real-time Telemetry).
+working on:
+- Efficient ML systems (Quantization, SpMv),
+- Networking (MAC protocols, On-chip Interconnects, Algorithms),
+- High-performance Computing (Processor Architecture, Accelerators, Parallel Programming, Collective Communications, Distributed Deep Learning),
+- WiFi-Sensing (healthcare, security),
+- Advanced Signal Processing (GenAI),
+- Indoor Localization (robotics and security),
+- Space Tech (Real-time Telemetry).
 
 <!--
 **Baccano01/Baccano01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
