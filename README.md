@@ -3,6 +3,7 @@
 MSc Computer Science student at Sapienza University of Rome (graduating Dec 2027),
 working on:
 - Efficient ML systems (Quantization, SpMv),
+- Machine Learning, Computer Vision, and Deep Learning,
 - Networking (MAC protocols, On-chip Interconnects, Algorithms),
 - High-performance Computing (Processor Architecture, Accelerators, Parallel Programming, Collective Communications, Distributed Deep Learning),
 - WiFi-Sensing (healthcare, security),
