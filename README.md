@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## What I work on
-- Performance engineering for sparse linear algebra.
-- ML-driven autotuning: reimplementing the SMAT autotuner (Li et al., PLDI 2013) - 2 GFLOP/s on EPYC 7301 (10K rows and cols sparse matrices)
-- Efficient ML and quantization research at Prometheus Laboratory
+## What I work onSome of the projects I have been worked (or working on):
+- ML-driven sparse-matrix vector multiplication (SpMv) which learns from sparse matrices features and dynamically selects the optimal matrix format (CSR, COO, DIA, ELL) based on FLOP/s. The matrices are from the SuiteSparse Matrix Collection. My proposed extension is on exploring permutation for rearranging the matrix. (Work in progress - Advanced Architecture Course).
+- Residual Number System (RNS) on ML Model Quantization, I have theoretically proved the limitation of RNS for model quantization in IEEE 754 FP32, also rediscovered potential research directions (like network parallelism for Homomorphic Encryption, and efficient inference with integers instead of floating points as some hardware use them) (Report published on Github - Independent Research as Research Assistant at Prometheus Laboratory)
+- My own proposal for an improvement for BinarySplitting-TreeSlottedAloha (BS-TSA) protocol for RFID networks (Work in Progress - Autonomous Networking course)
 
 ## Currently
 Building the autotuner's optimized kernels and learning modern C++.
