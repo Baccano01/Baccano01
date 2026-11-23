@@ -11,7 +11,7 @@ working on:
 - Indoor Localization (robotics and security),
 - Space Tech (Real-time Telemetry).
 
-DISCLAIMER: All of my ideas are not AI generated. These are the intuitions I got while taking courses on a wide variation of CS fields and other fields, or inspiration from nature! Although, I occasionally use AI generated code for throwaway code or for rapid prototypes. 
+DISCLAIMER: All of my ideas are not AI generated. These are the intuitions I got while taking courses on a wide variation of CS fields and other fields, or inspiration from my observations from nature and long reflections! Although, I occasionally use AI generated code for throwaway code or for rapid prototypes. 
 <!--
 **Baccano01/Baccano01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
